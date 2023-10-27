@@ -1,0 +1,11 @@
+Accident Severity,road condition,Weather conditions,speed limit(in mph),time of the day,Drivers age
+1,dry,sunny,80,morning,19
+2,dry,sunny,80,evening,34
+2,dry,sunny,80,morning,25
+3,wet,rainy,50,evening,67
+4,wet,rainy,50,afternoon,21
+5,icy,foggy,40,morning,23
+3,wet,rainy,50,evening,45
+1,dry,sunny,80,morning,76
+4,icy,foggy,40,morning,43
+5,wet,rainy,50,afternoon,20
